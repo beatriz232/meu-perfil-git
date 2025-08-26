@@ -8,5 +8,5 @@ olá! Sou um estudante de Desenvolvimento de Software no Senai.
 - TECNOLOGIA
 - MÚSICA
 - CRIAÇÃO NO CANVA
-- INFORMATICA
+- INFORMÁTICA
 - ARTE/MUSEU 
