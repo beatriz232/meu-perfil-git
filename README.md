@@ -10,3 +10,12 @@ olá! Sou um estudante de Desenvolvimento de Software no Senai.
 - CRIAÇÃO NO CANVA
 - INFORMÁTICA
 - ARTE/MUSEU 
+
+## Tecnologias
+
+Tecnologias | Nível |
+|-------------------|
+HTML        | Iniciante |
+CSS         | Iniciante | 
+JavaScript  | Iniciante |
+Python      | Básico    |
