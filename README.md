@@ -3,3 +3,10 @@
 olá! Sou um estudante de Desenvolvimento de Software no Senai.
 
 -**Localização:** Fortaleza, Ceará
+
+#Meus Interesses
+- TECNOLOGIA
+- MÚSICA
+- CRIAÇÃO NO CANVA
+- INFORMATICA
+- ARTE/MUSEU 
