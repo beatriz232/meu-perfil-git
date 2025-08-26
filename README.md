@@ -14,7 +14,6 @@ olá! Sou um estudante de Desenvolvimento de Software no Senai.
 ## Tecnologias
 
 Tecnologias | Nível |
-- |-------------------|
 - |HTML        | Iniciante |
 - |CSS         | Iniciante | 
 - |JavaScript  | Iniciante |
